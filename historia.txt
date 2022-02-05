@@ -2,3 +2,4 @@ hola, como estas es dia de hoy? no pasa nade si no respondes.
 yo bien, estoy aprendiendo a manejar
 git, que es un control de versiones
 desde la terminal y practicando la mecanografia
+con ayuda de platzi en el cusro de git con Fredy 
