@@ -1,0 +1,3 @@
+hola, como estas es dia de hoy?
+yo bien, estoy aprendiendo a manejar
+git, que es un control de vverciones
