@@ -1,5 +1,3 @@
-hola, como estas es dia de hoy? no pasa nade si no respondes.
+hola, como estas es dia de hoy?
 yo bien, estoy aprendiendo a manejar
-git, que es un control de versiones
-desde la terminal y practicando la mecanografia, no importa si no lo hace muy bien
-con ayuda de platzi en el cusro de git con Fredy, todo es increible!! 
+git, me despido de la vercion anterio  ;(
